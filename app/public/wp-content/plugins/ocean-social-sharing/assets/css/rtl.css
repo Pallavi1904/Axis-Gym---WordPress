@@ -1,0 +1,8 @@
+/* Social share */
+.entry-share ul li { margin-left: 8px; margin-right: 0; }
+.entry-share ul li:last-child { margin-left: 0; }
+.entry-share.side ul { float: left; }
+.entry-share.side ul li { float: right; }
+.entry-share.side .theme-heading { float: right; }
+.entry-share.has-name .oss-icon-wrap { right: 0; left: auto; }
+.entry-share.has-name .oss-name { padding: 0 50px 0 10px; }

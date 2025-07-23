@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'name' => 'elementor/site-mailer',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '243e778450974b5968883b042dbf6493b4177695',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => false,
+    ),
+    'versions' => array(
+        'elementor/site-mailer' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '243e778450974b5968883b042dbf6493b4177695',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'elementor/wp-notifications-package' => array(
+            'pretty_version' => '1.2.0',
+            'version' => '1.2.0.0',
+            'reference' => 'dd25ca9dd79402c3bb51fab112aa079702eb165e',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../elementor/wp-notifications-package',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'firebase/php-jwt' => array(
+            'pretty_version' => 'v6.10.0',
+            'version' => '6.10.0.0',
+            'reference' => 'a49db6f0a5033aef5143295342f1c95521b075ff',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../firebase/php-jwt',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);

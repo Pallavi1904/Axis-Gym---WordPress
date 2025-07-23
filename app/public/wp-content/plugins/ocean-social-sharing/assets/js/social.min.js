@@ -1,0 +1,1 @@
+function oss_onClick(t){var e=screen.height/2-240,o=screen.width/2-320;open(t,"","toolbar=0,status=0,width=640,height=480,top="+e+",left="+o)}

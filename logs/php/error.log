@@ -1,0 +1,23 @@
+[21-Jul-2025 04:43:07 UTC] [Site Mailer]: error in SiteMailer\Modules\Settings\Module::refresh_plan_data(): Invalid connect data
+[21-Jul-2025 04:43:08 UTC] [Site Mailer]: error in SiteMailer\Modules\Settings\Module::refresh_plan_data(): Invalid connect data
+[21-Jul-2025 04:43:10 UTC] [Site Mailer]: error in SiteMailer\Modules\Settings\Module::refresh_plan_data(): Invalid connect data
+[21-Jul-2025 04:43:15 UTC] Array
+(
+    [method] => POST
+    [headers] => Array
+        (
+            [x-elementor-app-type] => APP_MAILER
+            [Content-Type] => application/json
+        )
+
+    [body] => {"redirect_uri":"http:\/\/axis-gym.local\/wp-admin\/options-general.php?page=site-mailer-settings","app_type":"app_mailer"}
+    [timeout] => 30
+)
+
+[21-Jul-2025 04:43:27 UTC] [Site Mailer]: error in SiteMailer\Modules\Settings\Module::refresh_plan_data(): Invalid connect data
+[21-Jul-2025 04:43:27 UTC] [Site Mailer]: error in SiteMailer\Modules\Settings\Module::refresh_plan_data(): Invalid connect data
+[21-Jul-2025 04:43:30 UTC] [Site Mailer]: error in SiteMailer\Modules\Settings\Module::refresh_plan_data(): Invalid connect data
+[21-Jul-2025 05:48:21 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\PALLAVI\Local Sites\axis-gym\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[21-Jul-2025 10:42:12 UTC] PHP Warning:  PHP Request Startup: Input variables exceeded 4000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[21-Jul-2025 10:42:16 UTC] PHP Warning:  Undefined array key "column" in C:\Users\PALLAVI\Local Sites\axis-gym\app\public\wp-content\plugins\elementor\core\logger\items\js.php on line 16
+[21-Jul-2025 10:42:16 UTC] PHP Warning:  Undefined array key "url" in C:\Users\PALLAVI\Local Sites\axis-gym\app\public\wp-content\plugins\elementor\core\logger\items\js.php on line 17

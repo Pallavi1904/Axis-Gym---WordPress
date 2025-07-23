@@ -1,0 +1,338 @@
+# Copyright (C) 2016 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ocean-social-"
+"sharing\n"
+"POT-Creation-Date: 2025-05-19T05:22:40+00:00\n"
+"PO-Revision-Date: 2020-03-17 22:21+0100\n"
+"Last-Translator: \n"
+"Language-Team: OceanWP\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _esc_attr__;esc_attr_x;esc_attr_e;esc_html__;"
+"esc_html_e;esc_html_x;__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_attr__\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#. Plugin Name of the plugin
+#: ocean-social-sharing.php
+#, fuzzy
+msgid "Ocean Social Sharing"
+msgstr "Udostępnianie publiczne"
+
+#. Plugin URI of the plugin
+#: ocean-social-sharing.php
+msgid "https://oceanwp.org/extension/ocean-social-sharing/"
+msgstr ""
+
+#. Description of the plugin
+#: ocean-social-sharing.php
+msgid "A simple plugin to add social share buttons to your posts."
+msgstr ""
+
+#. Author of the plugin
+#: ocean-social-sharing.php includes/update-message.php:85
+msgid "OceanWP"
+msgstr ""
+
+#. Author URI of the plugin
+#: ocean-social-sharing.php
+msgid "https://oceanwp.org/"
+msgstr ""
+
+#: includes/options.php:18 ocean-social-sharing.php:432
+msgid "Social Sharing"
+msgstr "Udostępnianie publiczne"
+
+#: includes/options.php:29
+msgid "Sharing Buttons"
+msgstr "Przyciski udostępniania"
+
+#: includes/options.php:62
+msgid "Position"
+msgstr ""
+
+#: includes/options.php:71
+msgid "Before the Content"
+msgstr ""
+
+#: includes/options.php:72
+msgid "After the Content"
+msgstr ""
+
+#: includes/options.php:73
+msgid "Before and After the Content"
+msgstr ""
+
+#: includes/options.php:74
+msgid "Disabled"
+msgstr ""
+
+#: includes/options.php:89
+msgid "Display Social Name"
+msgstr ""
+
+#: includes/options.php:108
+#, fuzzy
+msgid "X (ex Twitter) Username"
+msgstr "Nazwa użytkownika na Twitter'ze"
+
+#: includes/options.php:128
+#, fuzzy
+msgid "Sharing Heading"
+msgstr "Przyciski udostępniania"
+
+#: includes/options.php:132
+msgid "Please Share This"
+msgstr "Proszę udostępnij to"
+
+#: includes/options.php:148
+#, fuzzy
+msgid "Heading Position"
+msgstr "Nagłówek posta"
+
+#: includes/options.php:159 includes/options.php:160
+msgid "Side"
+msgstr ""
+
+#: includes/options.php:164 includes/options.php:165
+msgid "Top"
+msgstr ""
+
+#: includes/options.php:181
+msgid "Social Buttons Style"
+msgstr ""
+
+#: includes/options.php:190
+msgid "Minimal"
+msgstr ""
+
+#: includes/options.php:191
+msgid "Colored"
+msgstr ""
+
+#: includes/options.php:192
+msgid "Dark"
+msgstr ""
+
+#: includes/options.php:207
+msgid "Buttons Border Radius"
+msgstr ""
+
+#: includes/options.php:222
+msgid "Desktop"
+msgstr ""
+
+#: includes/options.php:229
+msgid "Unit"
+msgstr ""
+
+#: includes/options.php:253
+#, fuzzy
+msgid "Minimal Style Borders"
+msgstr "Kolor obramowania linku"
+
+#: includes/options.php:265 includes/options.php:290 includes/options.php:315
+#, fuzzy
+msgid "Select Color"
+msgstr "Kolor ikony"
+
+#: includes/options.php:278
+#, fuzzy
+msgid "Minimal Style Background"
+msgstr "Kolor tła ikony"
+
+#: includes/options.php:303
+#, fuzzy
+msgid "Minimal Style Icon"
+msgstr "Kolor tła ikony"
+
+#: includes/options.php:329
+#, php-format
+msgid "%1$s Need Help? %2$s"
+msgstr ""
+
+#: includes/update-message.php:40
+msgid "Backup recommended before plugin update."
+msgstr ""
+
+#. translators: %1$s Link open tag, %2$s: Link close tag.
+#: includes/update-message.php:46
+#, php-format
+msgid ""
+"The latest update introduces significant improvements and changes to various "
+"plugin features.  For a smooth update process, it's crucial to %1$s backup "
+"your website beforehand  %2$s and test the update in a staging or test "
+"environment if available."
+msgstr ""
+
+#: includes/update-message.php:62
+msgid "What's new?"
+msgstr ""
+
+#. translators: %1$s Link open tag, %2$s: Link close tag.
+#: includes/update-message.php:68
+#, php-format
+msgid ""
+"Revamped Customizer for enhanced experience! This update delivers a "
+"completely redesigned Customizer with a focus on improved user interface "
+"(UI), user experience (UX), and performance. Enjoy a faster and more "
+"intuitive way to personalize your website with a wider range of options at "
+"your fingertips. Learn %1$s how to properly update your websites and "
+"transition to OceanWP 4 %4$s, view %2$s OceanWP 4 New Customizer details "
+"%4$s or check out the %3$s OceanWP 4 Customizer documentation %4$s."
+msgstr ""
+
+#: includes/update-message.php:81
+msgid "Items"
+msgstr ""
+
+#: includes/update-message.php:82
+msgid "Required Version"
+msgstr ""
+
+#: includes/update-message.php:86
+msgid "4.0.0"
+msgstr ""
+
+#: includes/update-message.php:89
+msgid "Ocean Extra"
+msgstr ""
+
+#: includes/update-message.php:90
+msgid "2.4.0"
+msgstr ""
+
+#: template/social-share.php:69
+#, fuzzy
+msgid "Share this content"
+msgstr "Udostępnij na Pinterest"
+
+#: template/social-share.php:75
+msgid "Available sharing options"
+msgstr ""
+
+#: template/social-share.php:100
+#, fuzzy
+msgid "Share on X"
+msgstr "Udostępnij na VK"
+
+#: template/social-share.php:101 template/social-share.php:124
+#: template/social-share.php:149 template/social-share.php:177
+#: template/social-share.php:202 template/social-share.php:234
+#: template/social-share.php:263 template/social-share.php:292
+#: template/social-share.php:317 template/social-share.php:345
+msgid "Opens in a new window"
+msgstr ""
+
+#: template/social-share.php:111
+msgid "X"
+msgstr ""
+
+#: template/social-share.php:123
+msgid "Share on Facebook"
+msgstr "Udostępnij na Facebook'u"
+
+#: template/social-share.php:136
+msgid "Facebook"
+msgstr "Facebook"
+
+#: template/social-share.php:148
+msgid "Share on Pinterest"
+msgstr "Udostępnij na Pinterest"
+
+#: template/social-share.php:164
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: template/social-share.php:176
+msgid "Share on LinkedIn"
+msgstr "Udostępnij na LinkedIn"
+
+#: template/social-share.php:189
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: template/social-share.php:201
+msgid "Share on Viber"
+msgstr "Udostępnij na Viber"
+
+#: template/social-share.php:221
+msgid "Viber"
+msgstr "Viber"
+
+#: template/social-share.php:233
+msgid "Share on VK"
+msgstr "Udostępnij na VK"
+
+#: template/social-share.php:250
+msgid "VK"
+msgstr "VK"
+
+#: template/social-share.php:262
+msgid "Share on Reddit"
+msgstr "Udostępnij na Reddit"
+
+#: template/social-share.php:279
+msgid "Reddit"
+msgstr "Reddit"
+
+#: template/social-share.php:291
+msgid "Share on Tumblr"
+msgstr "Udostępnij na Tumblr"
+
+#: template/social-share.php:304
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: template/social-share.php:316
+msgid "Share on Viadeo"
+msgstr "Udostępnij na Viadeo"
+
+#: template/social-share.php:332
+msgid "Viadeo"
+msgstr "Viadeo"
+
+#: template/social-share.php:344
+msgid "Share on WhatsApp"
+msgstr "Udostępnij na WhatsApp"
+
+#: template/social-share.php:361
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#~ msgid "Cheatin&#8217; huh?"
+#~ msgstr "Oszukujemy&#8217; co?"
+
+#~ msgid "Share on Twitter"
+#~ msgstr "Udostępnij na Twitter'ze"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#, fuzzy
+#~| msgid "Share on Google+"
+#~ msgid "Share on Google plus"
+#~ msgstr "Udostępnij na Google+"
+
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#~ msgid ""
+#~ "Ocean Social Sharing requires that you use ocean as your parent theme."
+#~ msgstr ""
+#~ "Ocean Social Sharing wymaga żebyś używał OceanWP jako głównego motywu."
+
+#~ msgid "Install Ocean Now"
+#~ msgstr "Zainstaluj OceanWP"

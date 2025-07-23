@@ -1,0 +1,34 @@
+.github-embed {
+	padding: 0.5em 2em 0.5em 4em;
+	background-color: #fdfdfd;
+	color: #111;
+	width: 80%;
+	margin: auto;
+	margin-bottom: 1em;
+	background-image: url('../img/github-logos/mark.png');
+	background-repeat: no-repeat;
+	background-position: 1em 1em;
+	-webkit-box-shadow: 2px 2px 2px #ddd;
+	-moz-box-shadow: 2px 2px 2px #ddd;
+	box-shadow: 2px 2px 2px #ddd;
+}
+
+.github-embed.github-logo-octocat {
+	background-image: url('../img/github-logos/octocat.png');
+}
+
+.github-embed.github-logo-mark {
+	background-image: url('../img/github-logos/mark.png');
+}
+
+li.github-repo-contributor {
+	clear: both;
+	display: block;
+}
+
+.github-repo-contributor-avatar {
+	float: left;
+	margin-right: 1em;
+	margin-bottom: 0.5em;
+	width: 64px;
+}

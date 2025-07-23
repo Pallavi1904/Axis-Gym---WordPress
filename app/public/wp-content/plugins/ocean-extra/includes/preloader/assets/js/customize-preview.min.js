@@ -1,0 +1,1 @@
+var api=wp.customize;api("ocean_preloader_content",function(e){e.bind(function(e){document.querySelector("#preloader-content .preloader-after-content").innerHTML=e})});
