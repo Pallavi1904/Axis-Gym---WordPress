@@ -1,0 +1,62 @@
+# Ignore everything except WordPress core files and theme/plugin customizations
+
+# ========================
+# WordPress core exclusions
+# ========================
+/wp-config.php
+/wp-config-sample.php
+/.htaccess
+/license
+/readme
+/local-xdebuginfo
+
+# ========================
+# Log files and backups
+# ========================
+*.log
+*.sql
+*.zip
+*.tar.gz
+*.rar
+*.bak
+*.tmp
+
+# ========================
+# Operating system and IDE files
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PHPStorm, VSCode, etc.
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# ========================
+# Node / Composer stuff (if used)
+# ========================
+node_modules/
+vendor/
+composer.lock
+package-lock.json
+
+# ========================
+# WP uploads directory (if large media or user content)
+# Comment this if you want uploads in repo
+# ========================
+wp-content/uploads/
+
+# ========================
+# Optional: Ignore WordPress core folders if repo is for theme/plugin only
+# ========================
+# Uncomment below if you're uploading only your custom theme or plugin
+# /wp-admin/
+# /wp-includes/
+
+# ========================
+# Ignore environment files (optional)
+# ========================
+.env
+.env.local
